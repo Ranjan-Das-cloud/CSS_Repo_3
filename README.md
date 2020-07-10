@@ -10,3 +10,5 @@ You can find them also in the Images_3 folder attached with this repository.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/65014749/87184738-2d923c80-c306-11ea-9f13-efa7f6616d9e.png)
 
+![Screenshot_3](https://user-images.githubusercontent.com/65014749/87184786-469aed80-c306-11ea-84ba-1b27ccff73ca.png)
+
