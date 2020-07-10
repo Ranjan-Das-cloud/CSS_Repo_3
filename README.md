@@ -7,3 +7,6 @@ All the demonstrations are attached here in the form of screenshots one by one h
 You can find them also in the Images_3 folder attached with this repository.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/65014749/87184635-fd4a9e00-c305-11ea-90b7-c0ddb433ed47.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/65014749/87184738-2d923c80-c306-11ea-9f13-efa7f6616d9e.png)
+
